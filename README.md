@@ -18,4 +18,5 @@ The test script performs the following 2 scenarios. The data structure for all r
 
 -> Verify if the firstName matches as expected("Carolina").
 
-[Screenshot](https://drive.google.com/file/d/1QB4VgbDTtznh5WN1RkZuR7xYPdaBn5cq/view?usp=share_link?)
+# Screenshot
+![image](https://user-images.githubusercontent.com/117293099/225216677-4f220494-e4f2-4593-bcf5-f0c9614bbada.png)
